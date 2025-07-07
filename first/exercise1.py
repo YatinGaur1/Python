@@ -1,0 +1,7 @@
+print("helloworl\nhelloworld\nhelloworld\n")
+print("hellow"+"world")
+print("String Manipulation Exercise")
+print('String Concatenation is done with"+" sign')
+print("e.g print("")")
+print('e.g.print("Hello"+"jenny")')
+print("New lines can be created with a backslash and n")
